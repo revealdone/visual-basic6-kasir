@@ -1,1 +1,12 @@
-Line 30: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 14: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 208: Class MSComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 17: The property name _ExtentX in CommonDialog1 is invalid.
+Line 18: The property name _ExtentY in CommonDialog1 is invalid.
+Line 19: The property name _Version in CommonDialog1 is invalid.
+Line 214: The property name _ExtentX in ListView1 is invalid.
+Line 215: The property name _ExtentY in ListView1 is invalid.
+Line 216: The property name LabelWrap in ListView1 is invalid.
+Line 217: The property name HideSelection in ListView1 is invalid.
+Line 218: The property name Checkboxes in ListView1 is invalid.
+Line 219: The property name _Version in ListView1 is invalid.
+Line 224: The property name NumItems in ListView1 is invalid.
